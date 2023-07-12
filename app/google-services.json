@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "758263579867",
+    "firebase_url": "https://farmersinformationmanager.firebaseio.com",
+    "project_id": "farmersinformationmanager",
+    "storage_bucket": "farmersinformationmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758263579867:android:5fecb79a1841e144",
+        "android_client_info": {
+          "package_name": "com.tech.nyax.farmers_information_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758263579867-rr6aiv0gjhin8t95vsa2ogki2obkl6pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUAKMtfeiY0KavddOaWidekvyIVdqmS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758263579867-rr6aiv0gjhin8t95vsa2ogki2obkl6pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758263579867:android:f624b03c3e7124bc5ab8fe",
+        "android_client_info": {
+          "package_name": "com.tech.nyax.farmers_information_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758263579867-rr6aiv0gjhin8t95vsa2ogki2obkl6pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUAKMtfeiY0KavddOaWidekvyIVdqmS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758263579867-rr6aiv0gjhin8t95vsa2ogki2obkl6pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
